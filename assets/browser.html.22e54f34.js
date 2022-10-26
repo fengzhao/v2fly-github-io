@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-65da5a48","path":"/en_US/v5/config/service/browser.html","title":"Browser Forwarder","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1652475590000,"contributors":[{"name":"Shelikhoo","email":"xiaokangwang@outlook.com","commits":2}]},"filePathRelative":"en_US/v5/config/service/browser.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-33d32901","path":"/v5/config/proxy.html","title":"Proxy \u4EE3\u7406\u534F\u8BAE","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1651450688000,"contributors":[{"name":"\u79CB\u306E\u304B\u3048\u3067","email":"autmaple@protonmail.com","commits":3}]},"filePathRelative":"v5/config/proxy.md"}');export{t as data};
